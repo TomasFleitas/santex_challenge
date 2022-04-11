@@ -10,7 +10,7 @@ import './index.scss';
   max 5
   según resolución de screen
  */
-const COLUMNS_NUMBER = 5;
+const COLUMNS_NUMBER = 3;
 
 type props = {
   color?: string;
